@@ -1,0 +1,10 @@
+Skill Old 100fps v1.2 - Bunnyjump Map 
+by Zerotech (http://www.speedkiller.net)
+
+Counter-Terrorists: Navigate all paths using Bunnyjump 
+techniques and skills in order to complete the map.
+
+Note: A Timer is added to see if you can complete 
+the map in the fastest time that is possible.
+
+Hosted by: www.speedkiller.net
